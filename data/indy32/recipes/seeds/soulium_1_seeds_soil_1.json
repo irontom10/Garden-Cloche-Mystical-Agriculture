@@ -1,0 +1,18 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "mysticalagriculture:soulium_dust",
+      "count": 1
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:soulium_seed_base"
+  },
+  "soil": "mysticalagriculture:supremium_farmland",
+  "time": 1200,
+  "render": {
+    "type": "crop",
+    "block": "mysticalagriculture:dirt_crop"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "mysticalagriculture:silicon_essence",
+      "count": 4
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:silicon_seeds"
+  },
+  "soil": {
+    "item": "mysticalagriculture:supremium_farmland"
+  },
+  "time": 1200,
+  "render": {
+    "type": "crop",
+    "block": "mysticalagriculture:silicon_crop"
+  }
+}

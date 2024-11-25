@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "mysticalagriculture:uranium_essence",
+      "count": 4
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:uranium_seeds"
+  },
+  "soil": {
+    "item": "mysticalagradditions:insanium_farmland"
+  },
+  "time": 1200,
+  "render": {
+    "type": "crop",
+    "block": "mysticalagriculture:uranium_crop"
+  }
+}
