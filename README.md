@@ -1,1 +1,1 @@
-This is a fork of https://www.curseforge.com/minecraft/customization/garden-cloche-mystical-agriculture by INDY32 to allow compatabiility with 1.20.1
+This is a fork of https://www.curseforge.com/minecraft/customization/garden-cloche-mystical-agriculture by INDY32 to allow compatabiility with 1.20.1. It may work with newer versions it has not been tested with versions >1.20.1
